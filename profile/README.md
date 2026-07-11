@@ -1,3 +1,5 @@
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bitbull-Ideas?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
+
 # Chris Ruettimann & Hermes Agent Workspace
 
 This is a workspace for collaboration between **Chris Ruettimann** and **Hermes Agent**.
